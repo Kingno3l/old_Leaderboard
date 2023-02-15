@@ -1,0 +1,21 @@
+.recent-refresh{
+    display: flex;
+    list-style: none;
+    gap: 4rem;
+    font-weight: bolder;
+    font-size: 3rem;
+}
+
+.recent-refresh button{
+font-size: 3rem;
+}
+
+table{
+    border:2px solid;
+    width: 50%;
+    font-size: 30px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
